@@ -1,3 +1,6 @@
 node_modules/
 public/
+src/sass/*.css
+src/sass/*.css.map
+package-lock.json
 .DS_Store
