@@ -1,18 +1,24 @@
-*,
-*::after,
-*::before {
+:root {
+  // Variables
+  --color-white: #fff;
+}
+
+* {
   // Global reset
   margin: 0;
   padding: 0;
+}
+
+*,
+*::after,
+*::before {
   box-sizing: inherit;
 }
 
 html {
-  // Define that 1rem is 10px
-  font-size: 62.5%;
-}
-
-body {
   // Alternative box-model
   box-sizing: border-box;
+
+  // Define that 1rem is 10px
+  font-size: 62.5%;
 }
