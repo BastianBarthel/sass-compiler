@@ -1,4 +1,4 @@
-# SASS compile|autoprefix|minimize and live-reload dev server using Browsersync for static HTML
+# Sass compile|autoprefix|minimize and live-reload dev server using Browsersync for static HTML
 
 Original by [Stephanie Eckles](https://thinkdobecreate.com/articles/minimum-static-site-sass-setup/).
 
